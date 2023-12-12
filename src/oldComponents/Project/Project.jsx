@@ -96,9 +96,7 @@ const Project = () => {
             ))}
           </Swiper>
         </div>
-        {/* <div className="lg:block hidden">
-          <img src={project_person} alt="" />
-        </div> */}
+        
       </div>
     </section>
   );
