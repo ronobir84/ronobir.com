@@ -12,7 +12,7 @@ import Project4 from './Pictures/project4.jpeg';
 
 //============================= DESIGN IMAGE =========================
 
-import design1 from './Pictures/Projects/New-Year.png';
+import design1 from './Pictures/Projects/House-Rent.png';
 import design2 from './Pictures/Projects/Law-Farm.png';
 import design3 from './Pictures/Projects/Archetecure.png';
 import design4 from './Pictures/Projects/House-Rent.png';
