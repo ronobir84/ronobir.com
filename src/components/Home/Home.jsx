@@ -18,7 +18,7 @@ const Home = () => {
                     </h1>
 
                     <p className="home__job">
-                        <span className="text-cs">I am</span> <b>Web Developer</b>
+                        <span className="text-cs">I am</span> <b>Software Developer</b>
                     </p>
 
                     <div className="home__img-wrapper">
@@ -59,7 +59,7 @@ const Home = () => {
                     </div>
 
                     <p className="home__text">
-                        From Sylhet, Bangladesh. Solid understanding of MERN stack, JavaScript, HTML and CSS. Committed to continuous learning and staying updated with industry trends.
+                        From Sylhet, Bangladesh. Solid understanding of Software Developer, PHP, Mysql,  JavaScript, HTML and CSS. Committed to continuous learning and staying updated with industry trends.
                     </p>
 
                     <div className="home__socials">

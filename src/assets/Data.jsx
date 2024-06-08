@@ -109,7 +109,7 @@ export const services = [
 export const skills = [
   {
     id: 1,
-    name: 'React',
+    name: 'PHP',
     percentage: 85,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -117,7 +117,7 @@ export const skills = [
 
   {
     id: 2,
-    name: 'MongoDB',
+    name: 'Mysql',
     percentage: 75,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -125,7 +125,7 @@ export const skills = [
 
   {
     id: 3,
-    name: 'Express',
+    name: 'Javascript',
     percentage: 90,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -141,7 +141,7 @@ export const skills = [
 
   {
     id: 5,
-    name: 'Firebase',
+    name: 'React',
     percentage: 70,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -149,7 +149,7 @@ export const skills = [
 
   {
     id: 6,
-    name: 'Tailwind',
+    name: 'Jquery',
     percentage: 80,
     description:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',

@@ -137,12 +137,13 @@
     border-radius: 50%;
     position: relative;
     z-index: 1;
+    bottom: 14px;
 }
 
 .home__profile {
     position: absolute;
     bottom: 0;
-    height: 580px;
+    height: 500px;
     border-radius: 590px;
     object-fit: cover;
 }
@@ -247,7 +248,7 @@
     }
 
     .home__profile {
-        height: 390px;
+        height: 300px;
     }
 
     .home__date {
